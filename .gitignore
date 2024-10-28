@@ -1,0 +1,17 @@
+# Ignoruj pliki binarne
+*.exe
+*.dll
+
+# Ignoruj pliki tymczasowe
+*.tmp
+*.log
+
+# Ignoruj katalogi tymczasowe
+temp/
+build/
+node_modules/
+
+# Ignoruj pliki konfiguracyjne systemu
+*.DS_Store
+*.idea/
+.vscode/
